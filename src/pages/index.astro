@@ -1,4 +1,6 @@
 ---
+import "../styles/global.css";
+
 const homeTitle = "Home";
 ---
 
@@ -9,6 +11,12 @@ const homeTitle = "Home";
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>{homeTitle}</title>
+    <style>
+      h1 {
+        color: purple;
+        font-size: 4rem;
+      }
+    </style>
   </head>
   <body>
     <a href="/">Home</a>
