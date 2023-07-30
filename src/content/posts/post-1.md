@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "Getting Started With Astro"
 pubDate: 2023-07-28
 description: "This is the first post of my new Astro blog."

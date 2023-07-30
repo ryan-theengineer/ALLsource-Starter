@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: Keeping Up The Pace
 author: Mars
 description: "This post will show up on its own!"

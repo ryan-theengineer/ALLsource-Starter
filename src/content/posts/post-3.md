@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: Finding A Community
 author: Mars
 description: "I had some challenges, but asking in the community really helped!"
