@@ -18,11 +18,11 @@ body {
 h1 {
   margin: 1rem 0;
   font-size: 4rem;
-  color: purple;
+  color: #6929c8;
 }
 
 .skill {
-  color: navy;
+  color: #6929c8;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -37,6 +37,19 @@ li {
 
 h2 {
   font-size: xx-large;
+}
+
+html.dark {
+  background-color: black;
+  color: #fff;
+}
+
+.greeting {
+  color: #6929c8;
+}
+
+.blog-links {
+  color: #6929c8;
 }
 
 /* nav styles */
@@ -78,6 +91,10 @@ h2 {
 .nav-links a:hover,
 a:focus {
   background-color: #ff9776;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
 
 .expanded {
