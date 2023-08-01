@@ -67,6 +67,18 @@ html.dark {
   width: 60%;
   align-items: center;
 }
+
+.portfolio-line {
+  margin-bottom: 1rem;
+}
+
+.ongoing {
+  color: green;
+}
+
+.deprecated {
+  color: red;
+}
 /* nav styles */
 
 .hamburger {
