@@ -52,6 +52,21 @@ html.dark {
   color: #6929c8;
 }
 
+.portfolio-links {
+  color: #6929c8;
+  font-size: large;
+}
+
+.portfolio-paragraphs {
+  font-size: medium;
+}
+
+.certificate-png {
+  margin: auto;
+  display: flex;
+  width: 60%;
+  align-items: center;
+}
 /* nav styles */
 
 .hamburger {
