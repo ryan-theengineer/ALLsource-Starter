@@ -4,7 +4,7 @@ author: Mars
 description: "Now that I have a strong base, it's time to spring forward!"
 image:
   url: "/assets/moon-image.jpg"
-  alt: " "
+  alt: 'tags":"moon, free wallpaper, hd wallpaper, astronomy, no one, beautiful wallpaper, 4k wallpaper 1920x1080, planet, laptop wallpaper, the science, space, 4k wallpaper, astrology, wallpaper hd, spherical, galaxy, full hd wallpaper, space wallpaper, sky, intelligence service, desktop wallpaper, sky background'
 pubDate: 2023-08-02
 tags: ["new", "successes", "blogging"]
 ---
