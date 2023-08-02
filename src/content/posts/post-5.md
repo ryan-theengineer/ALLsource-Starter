@@ -4,7 +4,7 @@ author: Mars
 description: "I have finished the Astro tutorial and have a strong base for a portfolio!"
 image:
   url: "https://docs.astro.build/assets/logomark-light.png"
-  alt: " "
+  alt: "Astro Logo"
 pubDate: 2023-07-31
 tags: ["astro", "successes", "blogging"]
 ---
