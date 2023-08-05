@@ -5,7 +5,7 @@ description: "Some thoughts moving forward and on my search."
 image:
   url: "/assets/code-image.jpg"
   alt: "Picture of HTML code"
-pubDate: 2023-08-05
+pubDate: 2023-08-04
 tags: ["new", "successes", "blogging"]
 ---
 
