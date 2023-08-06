@@ -72,13 +72,21 @@ html.dark {
   margin-bottom: 1rem;
 }
 
-.ongoing {
+.ongoing-display {
   color: green;
 }
 
-.deprecated {
+.deprecated-display {
   color: red;
 }
+
+
+.button:hover {
+  background-color: #ff9776;
+  transition: 0.7s;
+}
+
+
 /* nav styles */
 
 .hamburger {
@@ -129,6 +137,7 @@ a:focus {
   display: unset;
 }
 
+
 @media screen and (min-width: 636px) {
   .nav-links {
     margin-left: 5em;
@@ -145,5 +154,22 @@ a:focus {
 
   .hamburger {
     display: none;
+  }
+}
+
+/* flex container and media query*/
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+}
+
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
   }
 }

@@ -21,17 +21,16 @@ Thank you for coming along with me on this journey, I hope you get some insight 
 
 Thanks for reading!
 
-\
+_________________________________________
 
 Links:
 
-\
 
 https://medium.com/@naemazam/top-cybersecurity-projects-43f691a103f3
 
 Interesting read about open-source projects relating to keyloggers, bug bounty software and more.
 
-\
+_________________________________________
 
 https://medium.com/system-weakness/how-to-hack-phones-eb266ad1786b
 
