@@ -29,7 +29,7 @@
 
 ## My process
 
-Most of my process can be found within the README.md file located in the Public directory of Project Strong-Star.
+Most of my process can be found within the README.md file located in the [Public directory of Project Strong-Star](https://github.com/ryan-theengineer/strong-star-starter/tree/main/public).
 
 It closely follows the tutorial located in the Astro.js Documentation: [Astro Docs](https://docs.astro.build/en/getting-started/).
 
