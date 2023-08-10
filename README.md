@@ -1,4 +1,4 @@
-# Project Strong-Star
+# Welcome To Project Strong-Star!
 
 ## Table of contents
 
