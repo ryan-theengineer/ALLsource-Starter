@@ -25,7 +25,7 @@
 
 - Blog URL: [Strong-Star Blog](https://strong-star.netlify.app/blog)
 
-- GitHub URL: [Strong-Star](https://github.com/ryan-theengineer/strong-star-starter)
+- GitHub URL: [Strong-Star GitHub](https://github.com/ryan-theengineer/strong-star-starter)
 
 ## My process
 
