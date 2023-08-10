@@ -21,17 +21,16 @@ Thank you for coming along with me on this journey, I hope you get some insight 
 
 Thanks for reading!
 
-_________________________________________
+---
 
 Links:
 
-
-https://medium.com/@naemazam/top-cybersecurity-projects-43f691a103f3
+[Top Cybersecurity Projects](https://medium.com/@naemazam/top-cybersecurity-projects-43f691a103f3)
 
 Interesting read about open-source projects relating to keyloggers, bug bounty software and more.
 
-_________________________________________
+---
 
-https://medium.com/system-weakness/how-to-hack-phones-eb266ad1786b
+[How To Hack Phones](https://medium.com/system-weakness/how-to-hack-phones-eb266ad1786b)
 
 Good information about the workings of Metasploit, how to get started with it and some use cases. Includes a detailed tutorial for installing Metasploit on a Debian-Based Linux Distribution. Metasploit is a popular framework for Pentesters and Ethical Hackers. (Blog title is a little misleading.)

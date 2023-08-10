@@ -15,7 +15,7 @@ I have updated the project with new portfolio features since last time, as well 
 
 If you'd like to view any of the content in it's raw form you can visit the GitHub repository:
 
-https://github.com/ryan-theengineer/strong-star-starter/
+[Strong-Star Repo](https://github.com/ryan-theengineer/strong-star-starter/)
 
 I would be happy to walk you through the blog if you're curious!
 

@@ -22,7 +22,7 @@ I also improved the CSS for the buttons to include a better visual experience ov
 
 If you'd like to see the commits of what I've done, you can find it here and view the raw code if you have similar projects in mind!: 
 
-https://github.com/ryan-theengineer/strong-star-starter 
+[Strong Star GitHub Page](https://github.com/ryan-theengineer/strong-star-starter) 
 
 _________________________________________
 
@@ -36,7 +36,7 @@ Please wish me luck in my studies, and if anyone is interested in learning more 
 
 For now you can visit the CompTia A+ homepage, for more information: 
 
-https://www.comptia.org/certifications/a
+[CompTia Home Page](https://www.comptia.org/certifications/a)
 
 _________________________________________
 
