@@ -35,7 +35,7 @@ It closely follows the tutorial located in the Astro.js Documentation: [Astro Do
 
 I also included many of the features that can be found in the documentation such as the [RSS Feed](https://docs.astro.build/en/guides/rss/), and the [External Link Icons](https://docs.astro.build/en/recipes/external-links/).
 
-There are changes that I've made to updated the code and make it more responsive, you can view this commit: [Flexboxes](https://github.com/ryan-theengineer/strong-star-starter/commit/3ecdccbc2a83dcad7ac1aed706a241451e5af42c) to view the changes I made including Flexboxes in the footer section to fix links not working properly on mobile devices.
+There are changes that I've made to update the code and make it more responsive, you can view this commit: [Flexboxes](https://github.com/ryan-theengineer/strong-star-starter/commit/3ecdccbc2a83dcad7ac1aed706a241451e5af42c) to see the changes I made including Flexboxes in the footer section to fix links not stacking properly on mobile devices.
 
 This is my first Astro.js project and I have definitely learned a lot! I'm excited to continue working on this project and closely with Astro.js.
 
@@ -100,7 +100,7 @@ There are many quality of life things I would like to add including animations a
 
 ## Author
 
-- Created By - Mars
+- Created By - Mars (Ryan Stanton)
 - Website - [Project Strong-Star](https://www.your-site.com)
 - Twitter - [@ryan_the_dev1](https://twitter.com/ryan_the_dev1)
 - GitHub - [@ryanthe-engineer](https://github.com/ryan-theengineer)
