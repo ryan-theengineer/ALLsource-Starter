@@ -23,7 +23,7 @@
 
 - Live Site URL: [Strong-Star](https://strong-star.netlify.app/)
 
-- Live Site URL: [Strong-Star Blog](https://strong-star.netlify.app/blog)
+- Blog URL: [Strong-Star Blog](https://strong-star.netlify.app/blog)
 
 - GitHub URL: [Strong-Star](https://github.com/ryan-theengineer/strong-star-starter)
 
