@@ -17,7 +17,7 @@
 
 ### Screenshot
 
-![](./assets/frontpageportfolio.png)
+![Screenshot of Strong-Star Homepage](./assets/frontpageportfolio.png?raw=true)
 
 ### Links
 
@@ -89,7 +89,7 @@ If you want more help with writing markdown, I'd recommend checking out [The Mar
 
 ### Continued development
 
-I the future I will continue to post Blogs about the development of Strong-Star. I hope to soon add the ability to like and comment on the Blog posts.
+In the future I will continue to post Blogs about the development of Strong-Star. I hope to soon add the ability to like and comment on the Blog posts.
 
 There are many quality of life things I would like to add including animations and features.
 
