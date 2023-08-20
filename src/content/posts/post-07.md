@@ -3,7 +3,7 @@ title: Deciding Where To Go
 author: Mars
 description: "Some thoughts moving forward and on my search."
 image:
-  url: "/assets/code-image.jpg"
+  url: "/assets/images/code-image.jpg"
   alt: "Picture of HTML code"
 pubDate: 2023-08-04
 tags: ["new", "successes", "blogging"]

@@ -3,7 +3,7 @@ title: README!!!
 author: Mars
 description: "Brand new fully fledged README file for Project Strong-Star and my thoughts on it!"
 image:
-  url: "/assets/project-strong-star-readmePNG.png"
+  url: "/assets/images/project-strong-star-readmePNG.png"
   alt: "Screenshot of Project Strong-Star README file on GitHub"
 pubDate: 2023-08-09
 tags: ["new", "successes", "blogging", "astro"]
