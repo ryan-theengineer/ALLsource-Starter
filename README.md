@@ -17,7 +17,7 @@
 
 ### Screenshot
 
-![Screenshot of Strong-Star Homepage](public/assets/frontpageportfolio.png?raw=true)
+![Screenshot of Strong-Star Homepage](public/assets/images/frontpageportfolio.png?raw=true)
 
 ### Links
 
