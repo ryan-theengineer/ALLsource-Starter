@@ -21,7 +21,7 @@ I have been using TryHackMe for about 3 months now and have gained a pretty fund
 
 I've done a preliminary glance into the learning path and there is a bunch of great information that teaches you the basics of what a Security Engineer does and the tools they use everyday.
 
-I will have more blog posts to come as I follow along with the course and learn more. I'm eager to get started and see what they have in store! If you wanna join along you can follow this link: [TryHackMe Security Engineer Path](https://tryhackme.com/paths)
+I will have more blog posts to come as I follow along with the course and learn more. I'm eager to get started and see what they have in store! If you wanna join along you can follow this link: [TryHackMe Security Engineer Path](https://tryhackme.com/path/outline/security-engineer-training)
 
 I hope to see you there and see what prizes you unlock along the way!
 
@@ -55,4 +55,4 @@ This has been Mars, and I can't wait to see you there! Again you can click eithe
 
 Thank you for reading and Hack The Planet!!!
 
-If you'd like to find me anywhere else on the worldwide web please click the buttons to visit my links below:
+If you'd like to find me anywhere else on the worldwide web please click the buttons to visit my links below, or visit [TryHackMe.com](https://www.tryhackme.com) to see more.
