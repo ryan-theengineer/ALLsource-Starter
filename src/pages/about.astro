@@ -18,9 +18,6 @@ const skills = [
   "Linux",
   "Pentesting",
 ];
-
-const happy = true;
-const finished = true;
 ---
 
 <BaseLayout pageTitle="About Me">
@@ -42,8 +39,18 @@ const finished = true;
   <ul>
     {skills.map((skill) => <li class="skill">{skill}</li>)}
   </ul>
-
-  {happy && <p>I am happy to be learning Astro!</p>}
-
-  {finished && <p>I finished this tutorial!</p>}
+  <p>
+    I am a young professional based in California. My strengths lie in strong
+    written and verbal communication, a capacity for empathy, and meticulous
+    attention to detail.
+  </p>
+  <p>
+    I strongly believe in community values and togetherness. I am motivated by
+    the idea of amplifying each other's voices.
+  </p>
+  <p>
+    My goal is to enhance cybersecurity by fostering collaboration within the
+    community and bringing about positive change. I am eager to contribute to a
+    role that values its people and their ideas.
+  </p><p>Thank you for reading!</p>
 </BaseLayout>
