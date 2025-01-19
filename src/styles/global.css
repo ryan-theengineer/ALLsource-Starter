@@ -57,6 +57,11 @@ html.dark {
   font-size: large;
 }
 
+.portfolio-paragraph-links {
+  color: #6929c8;
+  font-size: medium;
+}
+
 .portfolio-paragraphs {
   font-size: medium;
 }
@@ -70,6 +75,10 @@ html.dark {
 
 .portfolio-line {
   margin-bottom: 1rem;
+}
+
+.portfolio-ul {
+  font-size: medium;
 }
 
 .ongoing-display {

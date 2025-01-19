@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Challenge - Security Engineering!
 author: Mars
-description: "TryHackMe has a new learning path avaliable with tons of prizes!"
+description: "TryHackMe has a new learning path available with tons of prizes!"
 image:
   url: "/assets/images/internet.jpg"
   alt: "Futuristic Bug Tracker"
@@ -13,7 +13,7 @@ Hello everyone I hope you're well, I'm going to do a few writeups of the new Try
 
 You can also join along and get the prizes with me, if you sign up for premium using my link we both get two tickets!
 
-Here's my link: [Referral Link](https://tryhackme.com/signup?referrer=6467d827ec7a6e0043769ff2)
+Here's my link: <span style="color:552A8B">[Referral Link](https://tryhackme.com/signup?referrer=6467d827ec7a6e0043769ff2)</span>
 
 ---
 
@@ -21,7 +21,7 @@ I have been using TryHackMe for about 3 months now and have gained a pretty fund
 
 I've done a preliminary glance into the learning path and there is a bunch of great information that teaches you the basics of what a Security Engineer does and the tools they use everyday.
 
-I will have more blog posts to come as I follow along with the course and learn more. I'm eager to get started and see what they have in store! If you wanna join along you can follow this link: [TryHackMe Security Engineer Path](https://tryhackme.com/path/outline/security-engineer-training)
+I will have more blog posts to come as I follow along with the course and learn more. I'm eager to get started and see what they have in store! If you wanna join along you can follow this link: <span style="color:552A8B">[TryHackMe Security Engineer Path](https://tryhackme.com/path/outline/security-engineer-training)</span>
 
 I hope to see you there and see what prizes you unlock along the way!
 
@@ -55,4 +55,4 @@ This has been Mars, and I can't wait to see you there! Again you can click eithe
 
 Thank you for reading and Hack The Planet!!!
 
-If you'd like to find me anywhere else on the worldwide web please click the buttons to visit my links below, or visit [TryHackMe.com](https://www.tryhackme.com) to see more.
+If you'd like to find me anywhere else on the worldwide web please click the buttons to visit my links below, or visit <span style="color:552A8B">[TryHackMe.com](https://www.tryhackme.com)</span> to see more.
