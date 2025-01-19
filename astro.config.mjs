@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import rehypeExternalLinks from "rehype-external-links";
+import react from '@astrojs/react';
 
 import preact from "@astrojs/preact";
 
@@ -15,5 +16,5 @@ export default defineConfig({
       ],
     ],
   },
-  integrations: [preact()],
+  integrations: [preact(), react()],
 });
