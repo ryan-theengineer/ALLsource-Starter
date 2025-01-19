@@ -4,7 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 const identity = {
   firstName: "Mars",
   country: "United States",
-  occupation: "Software Engineer",
+  occupation: "Student",
   hobbies: ["meditation", "hiking", "gaming"],
 };
 
@@ -25,7 +25,7 @@ const skills = [
   <ul>
     <li>My name is {identity.firstName}.</li>
     <li>
-      I live in {identity.country} and I work as a {identity.occupation}.
+      I live in {identity.country} and I am currently a {identity.occupation}.
     </li>
     {
       identity.hobbies.length >= 2 && (
