@@ -6,5 +6,5 @@ import RandomPhrase from "../scripts/RandomPhrase.jsx";
 
 <BaseLayout pageTitle="Home Page">
   <h2><RandomPhrase client:load client:only="react" /></h2>
-  <Greeting messages={["Hej", "Hallo", "Hola", "Habari"]} />
+  <Greeting client:load messages={["Hej", "Hallo", "Hola", "Habari"]} />
 </BaseLayout>
