@@ -92,7 +92,7 @@ html.dark {
 .button:hover,
 a:focus {
   transition: 0.7s;
-  background-color: #ff9776;
+  background-color: #6929c8;
 }
 
 /* nav styles */
@@ -107,7 +107,7 @@ a:focus {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  background-color: #6929c8;
 }
 
 .nav-links {
@@ -116,7 +116,7 @@ a:focus {
   text-align: center;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
+  background-color: #6929c8;
   display: none;
   margin: 0;
 }
@@ -129,13 +129,13 @@ a:focus {
   font-size: 1.2rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #6929c8;
+  color: white;
 }
 
 .nav-links a:hover,
 a:focus {
   transition: 0.7s;
-  background-color: #ff9776;
+  background-color: #6929c8;
 }
 
 .dark .nav-links a {

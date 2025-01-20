@@ -18,18 +18,21 @@ const { pageTitle } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <Header />
-    <h1>{pageTitle}</h1>
-    <script src="/matrix-background.js" type="module"></script>
 
+    <Header />
+    <script src="/matrix-background.js" type="module"></script>
+    <div class="content-island">
+    <h1>{pageTitle}</h1>
+    
     <main>
       <slot />
     </main>
-
+  </div>
     <Footer />
     <script>
       import "../scripts/menu.js";
       // import "../scripts/matrix-background.js";
     </script>
+ 
   </body>
 </html>

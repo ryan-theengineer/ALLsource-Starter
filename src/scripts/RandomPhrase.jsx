@@ -18,6 +18,12 @@ const RandomPhrase = () => {
       "There's no place like 127.0.0.1",
       "1337 H4x0R2 0NlY",
       "Are you some kind of sleeper agent?",
+      '"There is a difference between knowing the path and walking the path." - Morpheus',
+      '"The Matrix cannot tell you who you are."',
+      '"My God, it’s full of stars!"',
+      '"We’re ghosts in a system that wasn’t built for us." -Johnny Silverhand',
+      '"Hack the planet? Too small. I hacked reality."',
+      'What’s the difference between life and data? Nothing, if you do it right.',
     ];
     return phrases[Math.floor(Math.random() * phrases.length)];
   };
